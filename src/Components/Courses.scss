@@ -1,0 +1,28 @@
+.item-card{
+    margin-top: 20px;
+}
+.button-action{
+    display: flex;
+    justify-content: space-between;
+}
+.card-description{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.title{
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.Nav-bar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.courses input{
+    margin-top: 15px;
+    width: 40%;
+}

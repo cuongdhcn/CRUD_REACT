@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Kiến Thức Nhập Môn IT",
+        "description":"Để có cái nhìn tổng quan về ngành IT - Lập trình web các bạn nên xem các videos tại khóa này trước nhé.",
+        "image": "https://files.fullstack.edu.vn/f8-prod/courses/7.png"
+    },
+    {
+        "id": 2,
+        "title": "HTML CSS từ Zero đến Hero",
+        "description":"Trong khóa này chúng ta sẽ cùng nhau xây dựng giao diện 2 trang web là The Band & Shopee.",
+        "image": "https://files.fullstack.edu.vn/f8-prod/courses/2.png"
+    },
+    {
+        "id": 3,
+        "title": "Responsive Với Grid System",
+        "description":"Trong khóa này chúng ta sẽ học về cách xây dựng giao diện web responsive với Grid System, tương tự Bootstrap 4.",
+        "image": "https://files.fullstack.edu.vn/f8-prod/courses/3.png"
+    },
+    {
+        "id": 4,
+        "title": "Lập Trình JavaScript Nâng Cao",
+        "description":"Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ...",
+        "image": "https://files.fullstack.edu.vn/f8-prod/courses/12.png"
+    },
+    {
+        "id": 5,
+        "title": "Làm việc với Terminal & Ubuntu",
+        "description":"Sở hữu một Terminal hiện đại, mạnh mẽ trong tùy biến và học cách làm việc với Ubuntu là một bước quan trọng trên con đường trở thành một Web Developer.",
+        "image": "https://files.fullstack.edu.vn/f8-prod/courses/14/624faac11d109.png"
+    },
+    {
+        "id": 6,
+        "title": "Node & Express Js",
+        "description":"Để có cái nhìn tổng quan về ngành IT - Lập trình web các bạn nên xem các videos tại khóa này trước nhé.",
+        "image": "https://files.fullstack.edu.vn/f8-prod/courses/6.png"
+    }
+   
+]
